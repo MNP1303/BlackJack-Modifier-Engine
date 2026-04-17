@@ -1,0 +1,31 @@
+Common:40%
+- 1 -> Normal -> Random value from 1 to 10
+- 46 -> Multiplier -> Multiplies next card by 1.2x
+- 47 -> Multiplier -> Multiplies next card by 1.3x
+
+Rare:30%
+- 45 -> Duality -> Next card subtracts value
+- 48 -> Multiplier -> Multiplies next card by 1.4x
+- 11,12 -> The King -> +10 value
+
+Epic:20%
+- 49 -> Multiplier -> Multiplies next card by 1.5x
+- 63 -> The Ruler -> +11 Value
+- 66 -> Jackpot -> Multiplies money earnt by 1.5x.
+
+Legendary:13%
+- 104 -> The One -> +15 Value
+- 50 -> Breakthrough -> Bust limit +5
+- 44 -> Dead man's hand -> Multiplies current hand value by 3x
+- 74 -> Infernal -> 2x money earned, lose 3x if lost
+
+Mythical:5%
+- 105 -> Cosmic -> Multiplies final hand value by 1.2x
+- 120 -> Gift of Heavens -> Switch hand value if opponent value is higher
+- 65 -> Null -> Randomize the current value
+- 33 -> Malice -> Opponent bust value -5
+- 43 -> Ascension -> Removes bust limit, but limit turn to 2
+
+Godly:2%
+- 153 -> The One Above All -> Automatic blackjack
+- 35 -> Entity Beyond Time -> Forces opponent to stand
